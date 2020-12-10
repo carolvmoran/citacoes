@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: rgb(255, 208, 223);
+    text-shadow: 1px 1px 2px black;
     background: linear-gradient(to right, #f857a6, #ff5858);
 }

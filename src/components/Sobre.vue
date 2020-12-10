@@ -21,6 +21,7 @@ export default {
         height: 200px;
         width: 200px;
         border-radius: 100px;
+        margin-top: 15px;
     }
 
     p {
